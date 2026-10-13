@@ -1,6 +1,5 @@
 # Multi-Tier-Cloud-Infrastructure-Deployment
 
-# Multi-Tier Cloud Infrastructure Deployment
 
 A personal project that deploys a **3-tier architecture on AWS** to simulate a production-grade environment, with secure networking, least-privilege access, cost optimization, and monitoring built in.
 
